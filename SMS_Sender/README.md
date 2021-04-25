@@ -1,4 +1,4 @@
-SMS-Sender ✨
+**SMS-Sender** ✨
 
 This is SMS sender project using Fast2SMS in Python. 
 The main purpose of this project is to send sms efficiently using Python promptly to any number of your choice with the user specified text message
@@ -16,7 +16,7 @@ Instructions on how code is implemented:
 10. I have now created GUI interface with labels, extnumber and textmessages with the required specifications. I have also declared the send and quit button for operations and directed it to btn_clk. 
 11. I have also placed a SMS logo to appear on GUI. Make sure the file is in this folder.
 
-💡 Demo of my Project:
+💡 **Demo of my Project**:
 
 ![SMS_Sender](https://github.com/prathimacode-hub/Pythonista_ForAll/blob/main/SMS_Sender/SMS_Sender.png)
 
