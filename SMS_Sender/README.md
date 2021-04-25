@@ -18,7 +18,7 @@ Instructions on how code is implemented:
 
 💡 Demo of my Project:
 
-![Alt text of image](<https://github.com/prathimacode-hub/SMS-Sender/blob/main/SMS_Sender.png>)
+![SMS_Sender](https://github.com/prathimacode-hub/Pythonista_ForAll/blob/main/SMS_Sender/SMS_Sender.png)
 
 Visitors Count ❤️
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
