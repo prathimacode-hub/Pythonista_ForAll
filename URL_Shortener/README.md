@@ -5,4 +5,4 @@ You can copy the URL using "Copy URL" button
 
 # Screenshot
 
-![URL Shortener](https://github.com/prathimacode-hub/URL_Shortener/blob/main/URL%20Shortener%20Screenshot.png)
+![URL Shortener](https://github.com/prathimacode-hub/Pythonista_ForAll/blob/main/URL_Shortener/URL%20Shortener%20Screenshot.png)
